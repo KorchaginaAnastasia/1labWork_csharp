@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2.csproj", "{417570B9-C6B6-48D9-BDC7-4616256479BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{AEEEB1A6-B1AB-4CDE-9AD2-54AE96FF5BAD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\UI\AddSale.cs = ..\..\..\Desktop\UI\AddSale.cs
+		..\..\..\Desktop\UI\EditSale.cs = ..\..\..\Desktop\UI\EditSale.cs
+		..\..\..\Desktop\Models\Firm.cs = ..\..\..\Desktop\Models\Firm.cs
+		..\..\..\Desktop\Models\FuelType.cs = ..\..\..\Desktop\Models\FuelType.cs
+		..\..\..\Desktop\Models\GasStation.cs = ..\..\..\Desktop\Models\GasStation.cs
+		..\..\..\Desktop\UI\Program.cs = ..\..\..\Desktop\UI\Program.cs
+		..\..\..\Desktop\UI\RemoveSale.cs = ..\..\..\Desktop\UI\RemoveSale.cs
+		..\..\..\Desktop\Models\Sale.cs = ..\..\..\Desktop\Models\Sale.cs
+		..\..\..\Desktop\DPL\SalesContext.cs = ..\..\..\Desktop\DPL\SalesContext.cs
+		..\..\..\Desktop\DPL\SalesDBStorage.cs = ..\..\..\Desktop\DPL\SalesDBStorage.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417570B9-C6B6-48D9-BDC7-4616256479BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417570B9-C6B6-48D9-BDC7-4616256479BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417570B9-C6B6-48D9-BDC7-4616256479BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417570B9-C6B6-48D9-BDC7-4616256479BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7658D19-B929-4066-9EE1-4F0B2639EC8B}
+	EndGlobalSection
+EndGlobal
